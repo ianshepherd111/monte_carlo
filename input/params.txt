@@ -1,0 +1,13 @@
+sigmalj      	1
+epsilonlj    	1
+
+max_move       0.2
+
+r_cut          1000
+
+N_moves     1
+Equil_moves 5000000
+temperature      2
+
+
+density 0.1
